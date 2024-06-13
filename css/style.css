@@ -197,14 +197,7 @@ h1{
     .team-item .row {
         height: 350px;
     }
-    iframe{
-        width: 480px;
-    }
-}
-@media (max-width: 576px) {
-    iframe{
-        width: 280px;
-    }
+ 
 }
 
 .team-carousel .owl-nav {
